@@ -1,3 +1,4 @@
+# Requirements: Python, pip, jupyter notebook installed
 # Step 1: Create python virtual environment
 python -m venv env
 # Step 2: Activate python virtual environment
