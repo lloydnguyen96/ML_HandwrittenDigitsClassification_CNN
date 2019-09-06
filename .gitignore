@@ -139,4 +139,7 @@ data/
 # Shortcut
 *.lnk
 
+### Checkpoints folders
+checkpoints/
+
 # End of https://www.gitignore.io/api/python.
